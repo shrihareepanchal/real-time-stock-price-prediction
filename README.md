@@ -1,10 +1,14 @@
 # real-time-stock-price-prediction
-🌟 Key Features
-- **Live Market Data**: 1-minute interval prices from 60+ global exchanges
-- **Multi-Model AI Engine**: Simultaneously runs Random Forest, XGBoost, and Linear Regression
-- **Smart Alerts**: Push notifications + emails when prices move >$2.00 (configurable)
-- **Professional Dashboard**: Institutional-grade candlestick charts with prediction overlays
-- **Auto-Retraining**: Models refresh daily with latest market patterns
+
+Project Overview:-
+The goal of this project is to predict real-time stock prices using Machine Learning or Deep Learning models. The system will fetch live stock data, preprocess it, train a predictive model, and visualize results dynamically.The Real-Time Stock Price Prediction project aims to forecast stock prices dynamically using Machine Learning (ML) and Deep Learning (DL) models. It will fetch live stock data, process it, apply predictive models, and display results on an interactive web interface.
+
+🌟 Key Features:-
+✅ Fetch real-time stock price data (Yahoo Finance, Alpha Vantage, or Google Finance API)
+✅ Predict short-term stock price movements using ML/DL models
+✅ Deploy as a web app using Streamlit or Flask
+✅ Visualize real-time predictions using interactive plots
+✅ Zero-cost implementation (free APIs, cloud, or local setup)
 
 Prerequisites
 - Python 3.8+
