@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37604027-862b-46c1-87b4-197dc1b90cbb)# real-time-stock-price-prediction
+# real-time-stock-price-prediction
 🌟 Key Features
 - **Live Market Data**: 1-minute interval prices from 60+ global exchanges
 - **Multi-Model AI Engine**: Simultaneously runs Random Forest, XGBoost, and Linear Regression
@@ -46,5 +46,5 @@ Linear Regression	            -	                0.8s	            2.15
        streamlit run app.py
 
 📊 Sample Output:-
-![Output 2](https://github.com/user-attachments/assets/fe145cc3-cc69-40e2-8975-611f49ddb657)
 ![Output 1](https://github.com/user-attachments/assets/c58db65b-41a5-4005-a5c9-aa9c6fad8604)
+![Output 2](https://github.com/user-attachments/assets/fe145cc3-cc69-40e2-8975-611f49ddb657)
