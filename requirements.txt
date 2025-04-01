@@ -1,0 +1,12 @@
+streamlit
+yfinance
+numpy
+pandas
+joblib
+scikit-learn
+xgboost
+matplotlib
+altair
+firebase-admin
+plotly
+smtplib

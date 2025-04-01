@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "real-time-stock-price-predict",
+  "private_key_id": "b1d1ce9fb963e3305bc16ec448bb80545bb9ab7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrD9C/DF51d+R+\nhcw6EE1+fkDlDd77VJaq4FIiWHc/O57rPImVbOBw5L8ZeXl+BaODuL82g8kCqH+J\nZyK2PHocK93nLsCHkigUJ4nsBBFhPQUnXWfW7zHL14fIl11gIEKp/Yj2Ai4q8Klx\nZrcxuHqK6Q0VemaZst6dFmJ3fmCzwkG7CGw6Tq+pPGnk+KaTs8BEPJY79T2Ro9yu\nNYRRelh/N+qd6u6hlokCMhO9yVLN4PS9L/dtNSIhil8Oc0uwd5nk00LajEMMc1nS\n5x2CEMkmlXGpMQewnCIgXCrJ2HdZRglh2Y9ZyF5hlKn6IHZ0wB+nWd+Crx2H6qkp\nvQYlvp7NAgMBAAECggEAVPuV8pvj/4rRFvREqiH4RdvWRJU4DnePJJQt6cc2ctEd\nWfNozLXa6OsTb0X0kCGgAuwQ/rXI8ougVLRKv+tapM08QEJvPsrjI2QjNoAs3DiS\n62QRluudOw439HUSXBOa2tXMqZ8arZWDMIXdhBOIuaMfL2jwOPJueu8oewHra9HJ\niL1v8mPxBwVwK8rX7nbtjhGEoDQ8NVi4DnyNdTtB6c+TWhTkhMl2qdpGwdg62fGm\nB6CAS/cH5S1C0KU1jahzUhlywOlzjWRXx1SDlDtDZKhglgNuxSU4a8WkMF5f4V6F\ncU9owS6SoU/D4cE9RkBCRPPdpywXprh5AAw3vr9kNwKBgQDYReBgQ+4De+hmLSEE\nMHbE6vp1dyS3ycySFnfFyG1f1g7TkoqyhGWsPeUP2dJ27Wn2U9R9pqWHeuBRsQyo\nIRkbWRQ5AeqagLJLulZI/ZQAjN389UXSAw9sPzcSK1OIUF03NGhnPcAb1N5WPhKf\nYwDHW/aszEzd2ypFBMCA4GdrDwKBgQDKe+gnAv6LvE4YpaLOecgpGyhXLGpdwSqC\n/qTzEHUp559YRNDCFRmn4hzt99drBmkZuYKZ91C/DNLyUFArYvHGpafoR/l8XcH7\nRWij63ShARER42flL6arO7w+FNBsFxo/c6FU1ArHC82MWq87KZdNt6cgrsxXrGeT\nVi+cThxIYwKBgDJXeZYO2d1Xv03hXVkTSuIlbC1hkVtyjrrGnhScxdDUC9l1t/E7\n3krMkYAyDMqAEvUyqDijTM6PbJ23X6HXKnfyMUHfz1Mtd9MmyaTt2cCTCa0zDpCH\nA9UHlfMVwLjvM/OAsHivqAMSdrqOcllFe03seyvX1mCh/mHYbFLTaV9DAoGAU2wz\nXIdOSlH9twffCMSB4/WtbCT/ebsRAcFaQk5ghzBHpT1M6Pl6hYGSO7TlytFsUc3t\ncfPED8J/0pemQAnW5OnxQLEOp9+VASo6j3Z9qavf1YfkkTdNqrTEvKskp7Po+4Vv\nTZzDB/jj6dSe53geP0XQFJYP2HtOfRSALxy7aFMCgYBCYnXcZP0qDTWaUCstIdzS\nxDRYwUrLhob7JpRwewfQhoT17PT8G/eKa641WEttQRC+9b6p77G1YaNM/szpz2hd\nI/jRuLMxURoeuAaZoB93jK70DGvResBOTHyf/RcJ/Mw61m5KcIabgx2bOtV7Ct+m\n9h8azWsz/3pnfUWCQy+6iA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@real-time-stock-price-predict.iam.gserviceaccount.com",
+  "client_id": "106469045404365005167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40real-time-stock-price-predict.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
